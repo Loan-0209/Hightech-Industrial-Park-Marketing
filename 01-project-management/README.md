@@ -1,1 +1,5 @@
-
+- Project charter
+- Budget tracking
+- Timeline and milestones
+- Meeting notes
+- Risk register
